@@ -23,6 +23,9 @@ pub enum Mode {
     Balance,
     Performance,
     Fast,
+    Mode1,
+    Mode2,
+    Mode3,
     Pedestal,
 }
 
